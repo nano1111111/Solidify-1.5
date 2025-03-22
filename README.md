@@ -59,7 +59,6 @@ If you have a multimeter, check the switch's continuity to determine which pins 
 **Note:** The following image shows an earlier version of my PCB, which included a JST 2.0 connector in the eCAD design and copper pads for the official SlimeVR BNO085 module (which is to my knowledge discontinued) and is no longer featured in the gerber file. In that version, I soldered the battery directly to the TP4056 charging module. However, your PCB should resemble this once the soldering is complete.
 ![enter image description here](https://cdn.discordapp.com/attachments/635870829619707905/1348265709331026051/IMG_20250309_130142985_HDR.jpg?ex=67ced5ca&is=67cd844a&hm=3b663daeb26def1367c31b6fa8cca3dd19d9f3f39d1503056956e1ffed2acb0e&)
 
-a JST 2.0 connector will not fit due to space constraints, and you shouldn't solder the battery wires to that, it will just break off eventually
 
  --- 
 - **Step 6** 
@@ -78,4 +77,4 @@ You may need to change the I²C address in the firmware. Use the web firmware fl
 
 
 ## Strap
-You can use 50mm elastic fabric band for the straps, I suggest you use buckles for the hip and chest tracker but this comes down to personal preference.
+You can use 50mm or 38mm elastic fabric band for the straps, I suggest you use buckles for the hip and chest tracker but this comes down to personal preference or ultimatly what strap you buy.
