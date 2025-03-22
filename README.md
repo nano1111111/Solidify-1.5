@@ -1,7 +1,7 @@
 # Solidify SlimeVR  Flat Tracker
 
 
-I have designed it with a fitting case so you can order all the parts and assemble it directly.
+There are 2 cases available, take the one you prefer
 
 
 
